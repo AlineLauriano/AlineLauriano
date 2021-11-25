@@ -1,6 +1,8 @@
 ### Olá, sou a Aline. 
 Seja Bem vindo(a) ao meu perfil!👋
 
+
+
 <div align="center">
   <a href="https://github.com/AlineLauriano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlineLauriano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -11,7 +13,7 @@ Seja Bem vindo(a) ao meu perfil!👋
     <img align="center" alt="Aline-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Aline-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Aline-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
+      <img align="right" alt="Aline-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/e4be1dd755c352938fd7a00a242670f4.gif">
 </div>
   
   ##
