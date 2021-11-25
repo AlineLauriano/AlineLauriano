@@ -1,7 +1,4 @@
-### Olá, sou a Aline. 
-Seja Bem vindo(a) ao meu perfil!👋
-
-
+### Olá, sou a Aline. Seja Bem vindo(a) ao meu perfil!👋
 
 <div align="center">
   <a href="https://github.com/AlineLauriano">
